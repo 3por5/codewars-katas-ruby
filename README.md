@@ -1,2 +1,3 @@
-# codewars-katas-ruby
-codewars exercises
+# Codewars Katas
+
+This are Codewars Katas exercises, mainly for personal progress tracking.
